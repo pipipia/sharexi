@@ -1,0 +1,2 @@
+# sharexi
+ShareXi static files
